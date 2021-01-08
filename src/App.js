@@ -1,10 +1,10 @@
 import React from 'react'
 import Slider from './Components/Slider/Slider'
 
-const STEP = 2
-const MIN = -120
-const MAX = 120
-const VALUE = 50
+const STEP = 10
+const MIN = 0
+const MAX = 100
+const VALUE = 0
 
 const App = () => {
 
